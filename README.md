@@ -1,6 +1,7 @@
 # JWT Authentication/Authorization.
 
 This project serves as an in depth complementary study of JWT and Spring Security.
+
 ![Design Followed](procedure.png)
 
 ## Technologies :
